@@ -6,4 +6,4 @@ Just type the next word that makes sense
 
 #Link
 Play it here
-[text](https://teal-granita-8f717c.netlify.app/?fbclid=IwAR0wYbbZ1Mo7_FHr5uCcgfZwBCx817yz5a0HUwSqAhbPR57pJl4KEx7JKbM)
+[Game](https://teal-granita-8f717c.netlify.app/?fbclid=IwAR0wYbbZ1Mo7_FHr5uCcgfZwBCx817yz5a0HUwSqAhbPR57pJl4KEx7JKbM)
